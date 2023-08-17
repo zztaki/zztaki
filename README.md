@@ -6,4 +6,4 @@
 - 👯 I'm looking to collaborate on improving cache efficiency and performance.
 - 🤔 I'm looking for help with English and C++. :)
 - 😄 I'm interested in ping-pong.
-- 📫 How to reach me: mailto:zztaki@outlook.com;zhelongzhao@hust.edu.cn
+- 📫 How to reach me: zztaki@outlook.com;zhelongzhao@hust.edu.cn
