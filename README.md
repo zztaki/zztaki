@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🎓 I'm a second-year master student (CS) at Huazhong University of Science and Technology (HUST).
+- 🎓 I'm a third-year master student (CS) at Huazhong University of Science and Technology (HUST).
 - 🔭 I'm currently working in caching.
 - 🌱 I'm currently learning cache and database.
 - 👯 I'm looking to collaborate on improving cache efficiency and performance.
