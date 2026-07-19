@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🎓 I'm a third-year master student (CS) at Huazhong University of Science and Technology (HUST).
-- 🔭 I'm currently working in caching.
-- 🌱 I'm currently learning cache and database.
+- 🎓 I received both my bachelor's and master's degrees in Computer Science from Huazhong University of Science and Technology.
+- 🔭 I'm currently working in file system and cache.
+- 🌱 I'm currently learning cache and storage system.
 - 👯 I'm looking to collaborate on improving cache efficiency and performance.
-- 🤔 I'm looking for help with English and C++. :)
-- 😄 I'm interested in ping-pong. I like watching Premier League!
-- 📫 How to reach me: zztaki@outlook.com or zhelongzhao@hust.edu.cn
+- 😄 I like watching Premier League!
+- 📫 How to reach me: zztaki@outlook.com or zztaki@qq.com
